@@ -2,6 +2,8 @@
 
 ## unreleased
 
+- Update Nexus repository URLs for publishing
+
 ## 4.3.0
 
 - Add wasmJs target
